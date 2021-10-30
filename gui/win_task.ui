@@ -185,6 +185,13 @@
    </property>
   </widget>
  </widget>
+ <tabstops>
+  <tabstop>lineEdit_p</tabstop>
+  <tabstop>lineEdit_r</tabstop>
+  <tabstop>lineEdit_d</tabstop>
+  <tabstop>btn_ok</tabstop>
+  <tabstop>btn_cancel</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>
